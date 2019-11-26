@@ -6,7 +6,7 @@ ES7+ Javascript Websocket lib with messages queue and chainable events
 
 ```
 import {SsWebsocket} from './path/to/SsWebsocket/src/SsWebsocket.js';
-SsWebsocket(ip,port,routeKey,dataKey)
+SsWebsocket(ip,port,routeKey,dataKey,secure)
 ```
 
 ##### Instanciate using default values :
